@@ -5,7 +5,7 @@ Qiita : [https://qiita.com/LimeIvy](https://qiita.com/LimeIvy)
 [![Contributions](https://badgen.org/img/qiita/LimeIvy/contributions?style=plastic)](https://qiita.com/LimeIvy)
 
 ## Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=react,next,ts,supabase,firebase,prisma" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=react,next,ts,supabase,prisma" />
 <br>
 
 ## Activities
