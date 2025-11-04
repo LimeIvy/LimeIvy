@@ -71,7 +71,7 @@
       <h3 align="center">MATCHAI</h3>
       <div align="center">
         <a href="https://github.com/yama4936/MATCHAInext" target="_blank">
-          <img src="images/MATCHAI.png" alt="MATCHAI" />
+          <img src="./images/MATCHAI.png" alt="MATCHAI" />
         </a>
         <p>
           <a href="https://github.com/yama4936/MATCHAInext" target="_blank">
@@ -97,7 +97,7 @@
       <h3 align="center">わ～どせんす</h3>
       <div align="center">
         <a href="https://github.com/LimeIvy/word-sence-frontend" target="_blank">
-          <img src="images/wordsence.png" alt="わ～どせんす" />
+          <img src="./images/wordsence.png" alt="わ～どせんす" />
         </a>
         <p>
           <a href="https://github.com/LimeIvy/word-sence-frontend" target="_blank">
@@ -138,7 +138,7 @@
     <td width="50%" valign="top">
       <div align="center">
         <a href="https://zenn.dev/lime_ivy/books/bfae9f2fa28dba" target="_blank">
-          <img src="images/WEB入門.png" alt="Web開発入門" width="70%" />
+          <img src="./images/WEB入門.png" alt="Web開発入門" width="70%" />
         </a>
         <p>
           <a href="https://zenn.dev/lime_ivy/books/bfae9f2fa28dba" target="_blank">
@@ -151,7 +151,7 @@
     <td width="50%" valign="top">
       <div align="center">
         <a href="https://zenn.dev/lime_ivy/books/d3fda2cfc585a5" target="_blank">
-          <img src="images/React入門.jpg" alt="React入門" width="70%" />
+          <img src="./images/React入門.jpg" alt="React入門" width="70%" />
         </a>
         <p>
           <a href="https://zenn.dev/lime_ivy/books/d3fda2cfc585a5" target="_blank">
@@ -167,7 +167,7 @@
 <!-- Qiitaの記事 -->
 <div align="center">
   <a href="https://qiita.com/LimeIvy/items/764fec7023fc89d44250" target="_blank">
-    <img src="images/qiita.png" alt="Qiita記事" width="60%" />
+    <img src="./images/qiita.png" alt="Qiita記事" width="60%" />
   </a>
   <p>
     <a href="https://qiita.com/LimeIvy/items/764fec7023fc89d44250" target="_blank">
