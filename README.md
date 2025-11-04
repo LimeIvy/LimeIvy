@@ -5,7 +5,9 @@
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Building+web+applications;React+%7C+Next.js+%7C+FastAPI;Always+learning+new+technologies)](https://git.io/typing-svg)
 
-### 🚀 Full Stack Developer | 🎨 Web Application Developper
+### 🚀 Full Stack Developer | 🎨 Web Application Developer
+
+**学生エンジニア**として、Webアプリケーション開発の学習をしています！
 
 <br>
 
@@ -15,6 +17,18 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Lime_Ivy1221)
 
 ---
+
+## 📝 About Me
+
+<div align="left">
+
+- 学生エンジニアとして、フルスタック開発を学習中です！
+- 普段は、Next.jsを用いたモダンなWebアプリケーション開発を行っています！
+- サークルでの勉強会のために、React,Gitなどの技術記事の執筆を行うことで学習内容をアウトプットしています！
+
+</div>
+
+<br>
 
 ## 💻 Skills
 
@@ -54,26 +68,54 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🍵 MATCHAI</h3>
+      <h3 align="center">MATCHAI</h3>
       <div align="center">
         <a href="https://github.com/yama4936/MATCHAInext" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yama4936&repo=MATCHAInext&theme=radical&hide_border=true&bg_color=0D1117" alt="MATCHAI" />
+          <img src="images/MATCHAI.png" alt="MATCHAI" />
         </a>
         <p>
           <a href="https://github.com/yama4936/MATCHAInext" target="_blank">
             <img src="https://img.shields.io/badge/Code-View-58a6ff?style=for-the-badge&logo=github" />
           </a>
         </p>
-        <p><strong>Next.js, TypeScript, Supabase</strong> - AI-powered matching platform</p>
+        <p><strong>位置情報を用いた待ち合わせ簡易化アプリ</strong></p>
+        <p>
+          <strong>技術スタック:</strong> Next.js, TypeScript, TailwindCSS
+        </p>
+        <details>
+          <summary><strong>詳細を見る</strong></summary>
+          <p>
+            <strong>役割:</strong> バックエンド側の開発<br>
+            <strong>実装箇所:</strong> 位置情報APIの実装、距離や高さの計算やチャットのリアルタイム更新などを実装<br>
+            <strong>受賞歴:</strong> SysHack2025最優秀賞&企業賞(TechTrain様)<br>
+            技育博2025 vol.2 サイバーエージェント賞
+          </p>
+        </details>
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🚀 Project 2</h3>
+      <h3 align="center">わ～どせんす</h3>
       <div align="center">
+        <a href="https://github.com/LimeIvy/word-sence-frontend" target="_blank">
+          <img src="images/wordsence.png" alt="わ～どせんす" />
+        </a>
         <p>
-          <img src="https://via.placeholder.com/400x200/0D1117/58a6ff?text=Coming+Soon" alt="Coming Soon" />
+          <a href="https://github.com/LimeIvy/word-sence-frontend" target="_blank">
+            <img src="https://img.shields.io/badge/Code-View-58a6ff?style=for-the-badge&logo=github" />
+          </a>
         </p>
-        <p><strong>Coming Soon...</strong></p>
+        <p><strong>リアルタイム日本語カードゲーム</strong></p>
+        <p>
+          <strong>技術スタック:</strong> Next.js, Convex, word2vec
+        </p>
+        <details>
+          <summary><strong>詳細を見る</strong></summary>
+          <p>
+            <strong>役割:</strong> 個人開発<br>
+            <strong>実装箇所:</strong> convexを用いたリアルタイム通信、DB設計、効率的なデータフェッチ<br>
+            <strong>受賞歴:</strong> 技育展2025予選通過
+          </p>
+        </details>
       </div>
     </td>
   </tr>
@@ -81,22 +123,65 @@
 
 ---
 
+## 🏆 Achievements
+
+| イベント | 賞 | プロダクト | 月 |
+|---------|---|------------|---|
+| **SysHack2025** | 最優秀賞 & 企業賞 | [MATCHAI](https://github.com/yama4936/MATCHAInext) | 2025/03 |
+| **技育博2025 vol.2** | サイバーエージェント賞 | [MATCHAI](https://github.com/yama4936/MATCHAInext) | 2025/05 |
+| **技育展2025** | 予選通過 | [わ～どせんす](https://github.com/LimeIvy/word-sence-frontend) | 2025/11 |
+
 ## ✍️ Recent Articles
 
-<!-- Zennの記事 -->
-📚 **[初心者でも安心！ゼロから始めるWeb開発入門](https://zenn.dev/lime_ivy/books/bfae9f2fa28dba)**  
-Web開発の基礎を学ぶための入門書
-
-📚 **[ゼロから始めるReact入門](https://zenn.dev/lime_ivy/books/d3fda2cfc585a5)**  
-Reactの基礎から実践までを解説
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://zenn.dev/lime_ivy/books/bfae9f2fa28dba" target="_blank">
+          <img src="images/WEB入門.png" alt="Web開発入門" width="70%" />
+        </a>
+        <p>
+          <a href="https://zenn.dev/lime_ivy/books/bfae9f2fa28dba" target="_blank">
+            <img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" />
+          </a>
+        </p>
+        <p>Web開発の基礎を学ぶための入門書</p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://zenn.dev/lime_ivy/books/d3fda2cfc585a5" target="_blank">
+          <img src="images/React入門.jpg" alt="React入門" width="70%" />
+        </a>
+        <p>
+          <a href="https://zenn.dev/lime_ivy/books/d3fda2cfc585a5" target="_blank">
+            <img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" />
+          </a>
+        </p>
+        <p>Reactの基礎から実践までを解説</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <!-- Qiitaの記事 -->
-📝 **[プログラミング初心者が2か月弱でハッカソンの最優秀賞を受賞するまで](https://qiita.com/LimeIvy/items/764fec7023fc89d44250)**  
-ハッカソン挑戦の体験談
+<div align="center">
+  <a href="https://qiita.com/LimeIvy/items/764fec7023fc89d44250" target="_blank">
+    <img src="images/qiita.png" alt="Qiita記事" width="60%" />
+  </a>
+  <p>
+    <a href="https://qiita.com/LimeIvy/items/764fec7023fc89d44250" target="_blank">
+      <img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" />
+    </a>
+  </p>
+  <p>ハッカソン挑戦の体験談</p>
+</div>
 
 ➡️ [もっと記事を読む](https://qiita.com/LimeIvy)
+
 ---
 
+<br>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=LimeIvy&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
